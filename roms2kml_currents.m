@@ -1,4 +1,4 @@
-function [kmlStr] = roms2kml_currents_improved(romsFileName,romsGrdName,kmlFileName,timestep,level,spares)
+function [kmlStr] = roms2kml_currents(romsFileName,romsGrdName,kmlFileName,timestep,level,spares)
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %
 % function [kmlStr] = roms2kml_currents(romsFileName,romsGrdName,kmlFileName,timestep,level,spares)
