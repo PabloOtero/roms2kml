@@ -1,7 +1,9 @@
 Matlab scripts to create KML/KMZ files to use in Google Earth from output files 
 coming from a Regional Ocean Modelling System (ROMS) configuration. 
 
+These scripts require:
 
+http://code.google.com/p/googleearthtoolbox
 
 Below there are some comments about the used of the GoogleEarth toolbox:
 
